@@ -10,7 +10,8 @@ including that of KNN(K-Nearest Neighbour), J48(Decision Tree), Naive Bayes and 
 after 10-fold cross validation, achieved an accuracy of over 97% when applied on the test dataset.
 
 
-![Screenshot](Pics/Rice Plant Disease.jpeg)
+![Screenshot](Pics/Rice%20Plant%20Disease.jpeg)
+
 
 Technologies used:
   - Weka
@@ -26,6 +27,6 @@ A comparison between four machine learning algorithms (including that of KNN, De
 For our future work, we plan to explore the effectiveness of deep learning and transfer learning methods on this dataset.
 
 
-License
+
 ----
 
